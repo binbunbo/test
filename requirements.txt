@@ -1,3 +1,7 @@
 numpy
 ipywidgets
 nbinteract
+pandas
+datetime
+plotly
+json
